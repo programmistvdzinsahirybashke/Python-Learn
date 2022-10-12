@@ -1,7 +1,6 @@
 from random import randint
 
-1
-"""
+# 1
 euros_count = 100
 dollars = euros_count * 1.25
 rubles = dollars * 60
@@ -319,5 +318,4 @@ def sort_pair(pair):
 print(sort_pair((5, 1)))
 print(sort_pair((2, 2)))
 print(sort_pair((7, 8)))
-"""
 

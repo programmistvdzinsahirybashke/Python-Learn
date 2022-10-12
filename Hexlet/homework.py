@@ -20,7 +20,7 @@ y2 = float(input("Введите координаты точки B: "))
 
 length = ((x1 - x2) ** 2 + (y1 - y2) ** 2) ** 0.5
 print(length)
-"""
+
 # Смешивание цветов
 
 first_color = input('Введите первый цвет(красный, синий или желтый): ').capitalize()
@@ -35,3 +35,4 @@ elif first_color == 'Синий' and second_color == 'Желтый' or first_col
     print('Зеленый')
 else:
     print('Ошибка цвета')
+"""
